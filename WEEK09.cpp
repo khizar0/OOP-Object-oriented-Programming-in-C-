@@ -2435,3 +2435,10 @@
 //     t2.displayinfo();
 // }
 
+#include<iostream>
+using namespace std;
+int main ()
+{
+    cout<<"KHIZAR"<<endl;
+    return 0;
+}
